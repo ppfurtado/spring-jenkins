@@ -20,6 +20,7 @@ class SpringJenkinsApplicationTests {
 		logger.info("Test case executing");
 
 		logger.info("Test case executing test  pipeline with jenkins...");
+		logger.info("Test case executing test 2 pipeline with jenkins...");
 		assertTrue(true);
 	}
 
