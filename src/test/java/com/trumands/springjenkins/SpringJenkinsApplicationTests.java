@@ -18,8 +18,8 @@ class SpringJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executing");
-		logger.info("Test case executing second log statement...");
-		logger.info("Test case executing test  send email...");
+
+		logger.info("Test case executing test  pipeline with jenkins...");
 		assertTrue(true);
 	}
 
